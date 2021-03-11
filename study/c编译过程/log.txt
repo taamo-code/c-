@@ -1,0 +1,10 @@
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=0
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=1
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=2
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=3
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=4
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=5
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=6
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=7
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=8
+file:c.c  line:17  data:Mar  8 2021  time:09:25:54  i=9
